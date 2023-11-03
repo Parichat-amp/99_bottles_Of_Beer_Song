@@ -16,7 +16,6 @@ while (bottlesOfBeer >= 0) {
   if (bottlesOfBeer === 1) {
     wordBottle = "bottle";
   } else if (bottlesOfBeer === 0) {
-    wordBottle = "bottles";
     console.log("No more bottles of beer on the wall,");
     console.log("No more bottles of beer.");
     console.log("Go to the store and buy some more, 99 bottles of beer on the wall.");
